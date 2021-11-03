@@ -1,8 +1,8 @@
 {
-  "name": "moumirrai_bot",
+  "name": "RoleBot",
   "version": "1.0.0",
   "description": "",
-  "main": "moumirrai_bot.js",
+  "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1",
     "discord.js-commando": "^0.10.0"
@@ -10,17 +10,17 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node moumirrai_bot.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moumirrai/moumirraiBot.git"
+    "url": "git+https://github.com/zd3rki/RoleBot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Moumirrai/moumirraiBot/issues"
+    "url": "https://github.com/zd3rki/RoleBot/issues"
   },
-  "homepage": "https://github.com/Moumirrai/moumirraiBot#readme"
+  "homepage": "https://github.com/zd3rki/RoleBot#readme"
 }
